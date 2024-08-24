@@ -29,5 +29,5 @@ This project is a Book Recommendation System built with Django. It allows users 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/book-recommendation-system.git
-cd book-recommendation-system
+https://github.com/kiranadep/BookRecommendationSystem-Django.git
+
